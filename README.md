@@ -7,4 +7,20 @@ The biggest issue when analyzing an Incident or artifacts about an APT is the re
 
 You are more than welcome in partifipating by sharing any IOCs which is missing. For this you may raise an issue along with IOC and reference URL from where the IOCs is collected. 
 
+# Inspiration:
+@Arkbird_SOLG
+@malwrhunterteam 
+@MeltX0R 
+@ItsReallyNick 
+@_re_fox 
+@Rmy_Reserve 
+@DeadlyLynn 
+@James_inthe_box 
+@ShadowChasing1 
+@malz_intel
+@cyb3rops
+@DrunkBinary  
+@craiu 
+@VKintel
+
 
