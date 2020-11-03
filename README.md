@@ -21,6 +21,6 @@ You are more than welcome in partifipating by sharing any IOCs which is missing.
 @cyb3rops
 @DrunkBinary  
 @craiu 
-@VKintel
+@VK_Intel
 
 
