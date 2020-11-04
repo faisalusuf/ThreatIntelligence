@@ -12,7 +12,7 @@ We will try to collect all publically accessible IOCs for specific APT group con
 The IOCs are collected from several sources publically accessible and new one as it published. The IOCs collected from these sources are fed into [MISP](https://www.misp-project.org/) and correlation are performed based on other threat feeds. The enrichments are done using different [MISP modules](https://github.com/MISP/misp-modules) and potential false positives are manually reviewed.
 
 
-You are more than welcome for partifipation by sharing the IOCs which are missing, idea for improvement to make it more actionable. For this you may raise an [issue](https://github.com/faisalusuf/ThreatIntelligence/issues) along with IOC and reference URL from where the IOCs is collected. 
+You are more than welcome to contribute by sharing the IOCs which are missing, idea for improvement to make it more actionable. For this you may raise an [issue](https://github.com/faisalusuf/ThreatIntelligence/issues) along with IOC and reference URL from where the IOCs is collected. 
 
 ## Inspiration:
 
