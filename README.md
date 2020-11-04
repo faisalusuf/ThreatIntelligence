@@ -3,9 +3,9 @@ Tracking APT IOCs
 
 # Motivation
 
-When analyzing an Incident or artifacts about an APT, the research reports published on the internet usually found with different given APT names and the IOCs in these reports are unually unique in nature. This can lead to difficulty in the analysis by a researchers specially who are new to CTI. To collect the TI during analysis several sources are required to be searched and it can be daunting tasks for analysts to collect IOCs, review and remove potential false positives.
+When analyzing an Incident or artifacts about an APT, the research reports published on the internet usually found with different given APT names and the IOCs in these reports are collected from unique sources. This can lead to difficulty in the analysis by a researchers, specially who are new to CTI. During analysis several sources are required to be searched and it can be daunting tasks for analysts to keep a track on IOCs, review and remove potential false positives.
 
-We will try to include all publically accessible IOCs for specific APT group consolidate in one place.
+We will try to collect all publically accessible IOCs for specific APT group consolidate in one place. This is an on-going process and this repo will be keep on updating.
 
 # Methodology
 
