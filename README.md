@@ -14,20 +14,29 @@ The IOCs are collected from several sources publically accessible and new one as
 
 You are more than welcome for partifipation by sharing the IOCs which are missing, idea for improvement to make it more actionable. For this you may raise an [issue](https://github.com/faisalusuf/ThreatIntelligence/issues) along with IOC and reference URL from where the IOCs is collected. 
 
-# Inspiration:
-@Arkbird_SOLG (Special Thanks for expert advice)
-@malwrhunterteam 
-@MeltX0R 
-@ItsReallyNick 
-@_re_fox 
-@Rmy_Reserve 
-@DeadlyLynn 
-@James_inthe_box 
-@ShadowChasing1 
-@malz_intel
-@cyb3rops
-@DrunkBinary  
-@craiu 
-@VK_Intel
+## Inspiration:
+
+- @Arkbird_SOLG (Special Thanks for expert advice)
+- @malwrhunterteam 
+- @MeltX0R 
+- @ItsReallyNick 
+- @_re_fox 
+- @Rmy_Reserve 
+- @DeadlyLynn 
+- @James_inthe_box 
+- @ShadowChasing1 
+- @cyb3rops
+- @DrunkBinary  
+- @craiu 
+- @VK_Intel
+- @thepacketrat
 
 
+###### The IOCs can be made available in the following formats if required:
+
+* MISP XML
+* MISP JSON
+* OpenIOC
+* STIX XML
+* STIX JSON
+* STIX2
