@@ -26,5 +26,5 @@ Twitter Posts for #DONOT APT-C-35 #SectorE02 (Thanks for all the researchers who
 @blackorbird @RedDrip7 @mg2_tracy1 @_re_fox @Cyber_O51NT @cyb3rops @wugeej @nshcthreatrecon
 @h2jazi @alexey_firsh @Youngs0xff @InfoSecKitten @ptsecurity @edeca @wugeej @360TIC
 @Vishnyak0v @Timele9527 @OTX @RiskIQ @nshcthreatrecon @higefox @Rmy_Reserve @ThreatMiner
-@ASERTResearch
+@ASERTResearch @ShadowChasing1
 
