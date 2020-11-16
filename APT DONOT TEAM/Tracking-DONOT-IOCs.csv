@@ -1,4 +1,7 @@
 IOC Added Date,category,type,value
+11/16/2020,Payload delivery,md5,1471f6cee2386d5c3b68647b973eeb90
+11/16/2020,Payload delivery,sha1,79b3efea4c913a3be9e54efb6b8f888711a5f89b
+11/16/2020,Payload delivery,sha256,d06c664b5d95a05837fb252e95cd86e603708f6fd985de3448b24788a0075372
 11/13/2020,Payload delivery,md5,7eb237a9f97801d9eb0bed65103ffc89
 11/13/2020,Payload delivery,sha1,e214d5fd3b75579daf717e0484027b8106063dc3
 11/13/2020,Payload delivery,sha256,449979f1b1a9db98dad92de3f3af7045f0dc470085b9640b77f27675feaeefd8
